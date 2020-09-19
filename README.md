@@ -56,4 +56,4 @@
 | Wyoming | [link](https://sos.wyo.gov/elections/state/registeringtovote.aspx) | [contact county/ municipal clerk](https://www.workelections.com/states/56/Wyoming) |
 
 ### More info (including pay by county) can be found on the nonpartisan website https://www.workelections.com/
-#### feel free to email me if a link is wrong or a better resource exists
+#### feel free to email me if a link is wrong or a better resource exists - hgreich16 [at] gmail [dot] com
