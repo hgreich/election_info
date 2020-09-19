@@ -2,7 +2,7 @@
 ## Please find links to voter registration and poll worker/ election judge applications by states
 ### these positions are often paid and some states allow high school workers
 
-| State  | Voter registration | Poll volunteering |
+| State  | Voter registration | Poll volunteering/working info |
 | ------------- | ------------- | ------------- |
 | Alabama | [link](https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action) | [paid](https://www.sos.alabama.gov/alabama-votes/become-poll-worker) |
 | Alaska | [link](https://voterregistration.alaska.gov/) | [paid](https://elections.alaska.gov/Core/workers_poll.php) |
